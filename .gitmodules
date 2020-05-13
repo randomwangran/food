@@ -1,0 +1,3 @@
+[submodule "cooking"]
+	path = cooking
+	url = git@github.com:casdu/cooking.git
